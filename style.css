@@ -1,5 +1,5 @@
 .bg-hero-image {
-    background-color: blue;
+    background-image: url('maryshouse.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -7,10 +7,11 @@
   }
   
   body {
-    background-color: black;
+    background-image: url('marybg2.jpg');
     background-repeat: no-repeat;
     color: #ffffff;
     background-size: cover;
+    background-attachment: fixed;
   }
   
   .navbar-brand {
@@ -106,7 +107,7 @@
   }
   
   .db {
-    background-image: linear-gradient(to right, #670f3e, #2a1499);
+    background-color: #1b3ed8;
   }
   
   .vid {
